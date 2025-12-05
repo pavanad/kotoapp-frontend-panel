@@ -1,0 +1,5 @@
+{
+  "name": "KotoApp",
+  "description": "A responsive web application for managing and viewing Karate competition schedules, athlete categories, and match details.",
+  "requestFramePermissions": []
+}
