@@ -397,6 +397,13 @@
           "numero_luta": null,
           "cor_faixa": "azul",
           "numero_rodada": "segunda"
+        },
+        {
+          "nome": "Andreotti Giulianni",
+          "adversario": "Carvalho Rafaela (amparo)",
+          "numero_luta": null,
+          "cor_faixa": "vermelho",
+          "numero_rodada": "segunda"
         }
       ],
       "pdf_page": 128
