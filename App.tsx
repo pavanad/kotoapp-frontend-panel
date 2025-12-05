@@ -158,8 +158,8 @@ const App: React.FC = () => {
         {view === 'home' && (
           <div className="animate-in fade-in zoom-in-95 duration-500">
             <div className="px-4 mb-6">
-                <h1 className="text-2xl font-bold text-slate-800 dark:text-white">Bem-vindo, Sensei.</h1>
-                <p className="text-slate-500 dark:text-slate-400 text-sm">Acompanhe seus atletas em tempo real.</p>
+                <h1 className="text-2xl font-bold text-slate-800 dark:text-white">Olá, Seja Bem Vindo.</h1>
+                <p className="text-slate-500 dark:text-slate-400 text-sm">Acompanhe informações dos atletas.</p>
             </div>
             <CompetitionCard 
               data={competitionDisplayData} 

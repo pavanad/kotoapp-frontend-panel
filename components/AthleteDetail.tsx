@@ -122,7 +122,7 @@ export const AthleteDetail: React.FC<AthleteDetailProps> = ({ athlete, onBack })
                     <div className="mt-6 pt-6 border-t border-slate-100 dark:border-slate-800">
                         <h3 className="text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider mb-4 flex items-center">
                             <Sword className="w-3 h-3 mr-1" />
-                            Próximo Adversário
+                            Primeiro Adversário
                         </h3>
                         <div className="bg-slate-50 dark:bg-slate-800 p-4 rounded-xl flex items-center justify-between border border-slate-100 dark:border-slate-700/50">
                             <span className="font-bold text-slate-800 dark:text-slate-200">{athlete.adversario.split('(')[0].trim()}</span>
