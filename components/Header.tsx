@@ -10,8 +10,15 @@ export const Header: React.FC<HeaderProps> = ({ isDark, toggleTheme }) => {
   return (
     <header className="sticky top-0 z-50 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 shadow-sm transition-colors duration-300">
       <div className="max-w-3xl mx-auto px-4 py-3 flex items-center justify-between">
-        <div className="flex items-center gap-2">
-          {/* Logo representation */}
+        <div className="flex items-center gap-3">
+          {/* Logo Image */}
+          <img 
+            src="/logo.png" 
+            alt="KotoApp Logo" 
+            className="w-8 h-8 sm:w-9 sm:h-9 object-contain"
+          />
+          
+          {/* Logo Text */}
           <div className="flex items-center text-2xl font-black tracking-tighter select-none">
             <span className="text-[#0056b3] dark:text-[#3b82f6]">KOTO</span>
             <span className="text-[#d32f2f] dark:text-[#ef4444]">APP</span>
