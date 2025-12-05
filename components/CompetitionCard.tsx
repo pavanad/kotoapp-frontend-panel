@@ -42,7 +42,7 @@ export const CompetitionCard: React.FC<CompetitionCardProps> = ({ data, onClick 
 
             <div className="flex items-center text-slate-600 dark:text-slate-300 text-sm">
               <Users className="w-4 h-4 mr-2.5 text-slate-400 dark:text-slate-500" />
-              <span className="font-medium text-slate-900 dark:text-white">{data.numero_atletas} Atletas A2K</span>
+              <span className="font-medium text-slate-900 dark:text-white">{data.numero_atletas || '0'} Atletas A2K</span>
             </div>
           </div>
         </div>

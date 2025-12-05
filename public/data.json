@@ -1,9 +1,9 @@
 {
   "campeonato": {
-    "nome": "Campeonato Paulista de Karate - Hortolândia 2026",
-    "data": "07 de Dezembro de 2025",
+    "nome": "Etapa Antecipada do Campeonato Paulista (2026)",
+    "data": "05 a 06 de Dezembro de 2025",
     "ginasio": "Ginásio Poliesportivo Victor Savala",
-    "local": "Hortolândia - SP",    
+    "local": "Hortolândia - SP",
     "pdf_url": "https://images.smartdojo.app/api/media/file/chaves-paulista-hortolandia-2026.pdf"
   },
   "chaves": [
@@ -53,25 +53,6 @@
       "pdf_page": 10
     },
     {
-      "koto": "1",
-      "categoria": "Etapa Antecipada do Campeonato Paulista, BRA",
-      "numero_categoria": "106",
-      "tipo_categoria": "kumite",
-      "horario_inicio": "13:45",
-      "horario_termino": null,
-      "numero_atletas": null,
-      "atletas_a2k": [
-        {
-          "nome": "Pavan Leonardo",
-          "adversario": "Tressino Pietro (jks)",
-          "numero_luta": null,
-          "cor_faixa": "azul",
-          "numero_rodada": "primeira"
-        }
-      ],
-      "pdf_page": 61
-    },
-    {
       "koto": "1/1",
       "categoria": "SUB 12",
       "numero_categoria": "016",
@@ -96,6 +77,393 @@
         }
       ],
       "pdf_page": 12
+    },
+    {
+      "koto": "4",
+      "categoria": "SUB 14 | MASCULINO | 7º KYU À 3º KYU",
+      "numero_categoria": "017",
+      "tipo_categoria": "kata",
+      "horario_inicio": "11:25",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Nascimento Guilherme",
+          "adversario": "Martins Miguel (Wada)",
+          "numero_luta": null,
+          "cor_faixa": "vermelho",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 13
+    },
+    {
+      "koto": "1/1",
+      "categoria": "SUB 14",
+      "numero_categoria": "019",
+      "tipo_categoria": "kata",
+      "horario_inicio": "11:55",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Melo Emily",
+          "adversario": "Souza Maria",
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 15
+    },
+    {
+      "koto": "7",
+      "categoria": "CADETE",
+      "numero_categoria": "023",
+      "tipo_categoria": "KATA",
+      "horario_inicio": "12:05",
+      "horario_termino": null,
+      "numero_atletas": "18",
+      "atletas_a2k": [
+        {
+          "nome": "Rodrigues Juliane",
+          "adversario": "Oliveira Larissa (Washikio)",
+          "numero_luta": null,
+          "cor_faixa": "vermelho",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 19
+    },
+    {
+      "koto": "1",
+      "categoria": "SENIOR",
+      "numero_categoria": "034",
+      "tipo_categoria": "KATA",
+      "horario_inicio": "09:30",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Mariano Kayro",
+          "adversario": "Souza Fernando (Bushidokai)",
+          "numero_luta": null,
+          "cor_faixa": "vermelho",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 28
+    },
+    {
+      "koto": "1",
+      "categoria": "SENIOR | FEMININO | 7º KYU À 3º KYU",
+      "numero_categoria": "035",
+      "tipo_categoria": "KATA",
+      "horario_inicio": "11:50",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Tanaka Maria",
+          "adversario": "Oliveira Bruna",
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 29
+    },
+    {
+      "koto": "2",
+      "categoria": "SENIOR | FEMININO | 2º KYU E ACIMA",
+      "numero_categoria": "036",
+      "tipo_categoria": "KATA",
+      "horario_inicio": "09:30",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Pardini Beatriz",
+          "adversario": "Dibb Stephanie",
+          "numero_luta": null,
+          "cor_faixa": "vermelho",
+          "numero_rodada": "Primeira"
+        }
+      ],
+      "pdf_page": 30
+    },
+    {
+      "koto": "4",
+      "categoria": "MASTER B | FEMININO | 2º KYU E ACIMA",
+      "numero_categoria": "044",
+      "tipo_categoria": "KATA",
+      "horario_inicio": "13:05",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Pereira Patricia",
+          "adversario": "Santos Priscilla",
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "segunda"
+        }
+      ],
+      "pdf_page": 34
+    },
+    {
+      "koto": "2",
+      "categoria": "MASTER E",
+      "numero_categoria": "051",
+      "tipo_categoria": "KATA",
+      "horario_inicio": "11:45",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Gasparoti Andre",
+          "adversario": "Rabello Jonas",
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "segunda"
+        }
+      ],
+      "pdf_page": 38
+    },
+    {
+      "koto": "1",
+      "categoria": "MASTER G",
+      "numero_categoria": "058",
+      "tipo_categoria": "kata",
+      "horario_inicio": "11:55",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Fernandes Joyce",
+          "adversario": null,
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 43
+    },
+    {
+      "koto": "1",
+      "categoria": "MASTER J",
+      "numero_categoria": "067",
+      "tipo_categoria": "KATA",
+      "horario_inicio": "12:30",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Zanella Marcelo",
+          "adversario": "Barbosa Drausio",
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "final"
+        }
+      ],
+      "pdf_page": 50
+    },
+    {
+      "koto": "7",
+      "categoria": "SUB 12 | MASCULINO | 2º KYU E ACIMA | -35KG",
+      "numero_categoria": "105",
+      "tipo_categoria": "KUMITE",
+      "horario_inicio": "13:25",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Ribeiro Joao",
+          "adversario": "Costa Otavio (Nakayama)",
+          "numero_luta": null,
+          "cor_faixa": "vermelho",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 60
+    },
+    {
+      "koto": "1",
+      "categoria": "Etapa Antecipada do Campeonato Paulista, BRA",
+      "numero_categoria": "106",
+      "tipo_categoria": "kumite",
+      "horario_inicio": "13:45",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Pavan Leonardo",
+          "adversario": "Tressino Pietro (jks)",
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 61
+    },
+    {
+      "koto": "3",
+      "categoria": "SUB 12 | FEMININO | 2º KYU E ACIMA | -42KG",
+      "numero_categoria": "114",
+      "tipo_categoria": "kumite",
+      "horario_inicio": "13:25",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Praxedes Rebeca",
+          "adversario": "Rodrigues Rafaela",
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "segunda"
+        }
+      ],
+      "pdf_page": 66
+    },
+    {
+      "koto": "2",
+      "categoria": "SUB 14",
+      "numero_categoria": "119",
+      "tipo_categoria": "KUMITE",
+      "horario_inicio": "13:35",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Nascimento Guilherme",
+          "adversario": "Santos Jose",
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 70
+    },
+    {
+      "koto": "1",
+      "categoria": "SUB 14 | FEMININO | 7º KYU À 3º KYU | +52KG",
+      "numero_categoria": "130",
+      "tipo_categoria": "kumite",
+      "horario_inicio": "14:00",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Melo Emily",
+          "adversario": "Almeida Geovana",
+          "numero_luta": null,
+          "cor_faixa": "vermelho",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 81
+    },
+    {
+      "koto": "2",
+      "categoria": "CADETE FEMININO",
+      "numero_categoria": "147",
+      "tipo_categoria": "KUMITE",
+      "horario_inicio": "14:40",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Rodrigues Juliane",
+          "adversario": "Vaz Maria",
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 97
+    },
+    {
+      "koto": "1",
+      "categoria": "SENIOR | FEMININO | 2º KYU E ACIMA | +68KG",
+      "numero_categoria": "212",
+      "tipo_categoria": "KUMITE",
+      "horario_inicio": "15:15",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Pardini Beatriz",
+          "adversario": null,
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "segunda"
+        }
+      ],
+      "pdf_page": 128
+    },
+    {
+      "koto": "7",
+      "categoria": "MASTER B FEMININO",
+      "numero_categoria": "222",
+      "tipo_categoria": "KUMITE",
+      "horario_inicio": "15:15",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Pereira Patricia",
+          "adversario": "Borghi Patricia (Pinheiro)",
+          "numero_luta": null,
+          "cor_faixa": "azul",
+          "numero_rodada": "segunda"
+        }
+      ],
+      "pdf_page": 129
+    },
+    {
+      "koto": "1",
+      "categoria": "MASTER J MASCULINO",
+      "numero_categoria": "260",
+      "tipo_categoria": "kumite",
+      "horario_inicio": "15:35",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Zanella Marcelo",
+          "adversario": "Barbosa Drausio",
+          "numero_luta": null,
+          "cor_faixa": "vermelho",
+          "numero_rodada": "primeira"
+        }
+      ],
+      "pdf_page": 143
+    },
+    {
+      "koto": "6",
+      "categoria": "SÊNIOR PCD DEF. INTELECTUAL D2",
+      "numero_categoria": "K21",
+      "tipo_categoria": null,
+      "horario_inicio": "09:35",
+      "horario_termino": null,
+      "numero_atletas": null,
+      "atletas_a2k": [
+        {
+          "nome": "Assis Gabriel",
+          "adversario": "Lambert Lucas (mbraga)",
+          "numero_luta": null,
+          "cor_faixa": "vermelho",
+          "numero_rodada": "segunda"
+        },
+        {
+          "nome": "Netto Giovani",
+          "adversario": "Garcia Giovanni (Dias)",
+          "numero_luta": null,
+          "cor_faixa": "vermelho",
+          "numero_rodada": "segunda"
+        }
+      ],
+      "pdf_page": 146
     }
   ]
 }

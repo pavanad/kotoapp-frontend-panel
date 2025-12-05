@@ -10,7 +10,7 @@ export interface Chave {
   koto: string;
   categoria: string;
   numero_categoria: string;
-  tipo_categoria: string;
+  tipo_categoria: string | null;
   horario_inicio: string;
   horario_termino: string | null;
   numero_atletas: string | null;
@@ -37,7 +37,7 @@ export interface EnrichedAthlete extends AtletaA2K {
   parent_koto: string;
   parent_categoria: string;
   parent_numero_categoria: string;
-  parent_tipo_categoria: string;
+  parent_tipo_categoria: string | null;
   parent_horario_inicio: string;
   parent_pdf_page: number;
   competition_pdf_url?: string;

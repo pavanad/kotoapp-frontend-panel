@@ -24,8 +24,8 @@ export const AthleteList: React.FC<AthleteListProps> = ({ athletes, onSelect, on
     return Object.entries(groups).sort((a, b) => a[0].localeCompare(b[0]));
   }, [athletes]);
 
-  const getCategoryIcon = (type: string) => {
-    if (type.toLowerCase().includes('kumite')) return <Swords className="w-4 h-4" />;
+  const getCategoryIcon = (type: string | null) => {
+    if (type && type.toLowerCase().includes('kumite')) return <Swords className="w-4 h-4" />;
     return <ScrollText className="w-4 h-4" />;
   };
 
@@ -72,7 +72,7 @@ export const AthleteList: React.FC<AthleteListProps> = ({ athletes, onSelect, on
                   <div className="flex flex-col gap-1">
                     <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-[#0056b3] dark:text-[#60a5fa]">
                       {getCategoryIcon(event.parent_tipo_categoria)}
-                      <span>{event.parent_tipo_categoria}</span>
+                      <span>{event.parent_tipo_categoria || 'Geral'}</span>
                       <span className="text-slate-300 dark:text-slate-600">•</span>
                       <span className="flex items-center text-slate-500 dark:text-slate-400 font-medium normal-case">
                         <Clock className="w-3 h-3 mr-1" />

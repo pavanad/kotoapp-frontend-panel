@@ -8,7 +8,7 @@ interface AthleteDetailProps {
 }
 
 export const AthleteDetail: React.FC<AthleteDetailProps> = ({ athlete, onBack }) => {
-  const isRed = athlete.cor_faixa.toLowerCase() === 'vermelho';
+  const isRed = (athlete.cor_faixa || '').toLowerCase() === 'vermelho';
   const beltColorClass = isRed ? 'bg-[#d32f2f] text-white' : 'bg-[#0056b3] text-white';
   
   return (
@@ -83,7 +83,7 @@ export const AthleteDetail: React.FC<AthleteDetailProps> = ({ athlete, onBack })
                             <Layers className="w-4 h-4 mr-3" />
                             <span>Tipo</span>
                         </div>
-                        <span className="font-semibold text-slate-900 dark:text-white uppercase">{athlete.parent_tipo_categoria}</span>
+                        <span className="font-semibold text-slate-900 dark:text-white uppercase">{athlete.parent_tipo_categoria || '-'}</span>
                     </div>
 
                     <div className="h-px bg-slate-100 dark:bg-slate-800"></div>
