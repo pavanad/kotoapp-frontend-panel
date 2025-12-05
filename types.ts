@@ -23,7 +23,8 @@ export interface Campeonato {
   data: string;
   ginasio: string;
   local: string;
-  numero_atletas: string;
+  numero_atletas?: string;
+  pdf_url?: string;
 }
 
 export interface CompetitionData {
@@ -39,4 +40,5 @@ export interface EnrichedAthlete extends AtletaA2K {
   parent_tipo_categoria: string;
   parent_horario_inicio: string;
   parent_pdf_page: number;
+  competition_pdf_url?: string;
 }
