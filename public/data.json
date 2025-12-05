@@ -20,7 +20,7 @@
           "nome": "Borges Lorenzo",
           "adversario": "Niro Henrique (Wada)",
           "numero_luta": null,
-          "cor_faixa": "vermelho",
+          "cor_faixa": "azul",
           "numero_rodada": "Primeira"
         }
       ],
@@ -39,7 +39,7 @@
           "nome": "Pavan Leonardo",
           "adversario": "Tressino Pietro (jks)",
           "numero_luta": null,
-          "cor_faixa": "vermelho",
+          "cor_faixa": "azul",
           "numero_rodada": "primeira"
         },
         {
@@ -53,7 +53,7 @@
       "pdf_page": 10
     },
     {
-      "koto": "1/1",
+      "koto": "6",
       "categoria": "SUB 12",
       "numero_categoria": "016",
       "tipo_categoria": "KATA",
@@ -65,14 +65,14 @@
           "nome": "Praxedes Rebeca",
           "adversario": null,
           "numero_luta": null,
-          "cor_faixa": "vermelho",
+          "cor_faixa": "azul",
           "numero_rodada": "primeira"
         },
         {
           "nome": "Pavan Lorena",
           "adversario": null,
           "numero_luta": null,
-          "cor_faixa": "vermelho",
+          "cor_faixa": "azul",
           "numero_rodada": "primeira"
         }
       ],
@@ -98,7 +98,7 @@
       "pdf_page": 13
     },
     {
-      "koto": "1/1",
+      "koto": "6",
       "categoria": "SUB 14",
       "numero_categoria": "019",
       "tipo_categoria": "kata",
@@ -155,7 +155,7 @@
       "pdf_page": 28
     },
     {
-      "koto": "1",
+      "koto": "7",
       "categoria": "SENIOR | FEMININO | 7º KYU À 3º KYU",
       "numero_categoria": "035",
       "tipo_categoria": "KATA",
@@ -250,7 +250,7 @@
       "pdf_page": 43
     },
     {
-      "koto": "1",
+      "koto": "2",
       "categoria": "MASTER J",
       "numero_categoria": "067",
       "tipo_categoria": "KATA",
@@ -288,8 +288,8 @@
       "pdf_page": 60
     },
     {
-      "koto": "1",
-      "categoria": "Etapa Antecipada do Campeonato Paulista, BRA",
+      "koto": "8",
+      "categoria": "SUB 12",
       "numero_categoria": "106",
       "tipo_categoria": "kumite",
       "horario_inicio": "13:45",
@@ -383,7 +383,7 @@
       "pdf_page": 97
     },
     {
-      "koto": "1",
+      "koto": "8",
       "categoria": "SENIOR | FEMININO | 2º KYU E ACIMA | +68KG",
       "numero_categoria": "212",
       "tipo_categoria": "KUMITE",
@@ -441,8 +441,8 @@
     },
     {
       "koto": "6",
-      "categoria": "SÊNIOR PCD DEF. INTELECTUAL D2",
-      "numero_categoria": "K21",
+      "categoria": "K21 SÊNIOR PCD DEF. INTELECTUAL D2",
+      "numero_categoria": "307",
       "tipo_categoria": null,
       "horario_inicio": "09:35",
       "horario_termino": null,
